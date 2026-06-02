@@ -1,0 +1,115 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=SRTM-Downloader
+qgisMinimumVersion=3.00
+qgisMaximumVersion=3.99
+description=Plugin for download of SRTM Tiles from OpenTopography Data, 
+version=3.3.2
+author=Dr. Horst Duester
+email=horst.duester@kappasys.ch
+
+about=Plugin for download of SRTM Tiles from OpenTopography Data. Before you can use the plugin, you must create an API key at https://opentopography.org Here is a description of how to do this.https://opentopography.org/blog/introducing-api-keys-access-opentopography-global-datasets.
+
+tracker=https://github.com/hdus/SRTM-Downloader/issues
+repository=https://github.com/hdus/SRTM-Downloader
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+changelog=
+  3.3.2
+  - Security issues fixed
+  3.3.1 
+  - A lot of translations added
+  3.3.0
+  - Plugin refactored to use OpenTopography data
+  3.2.3
+  - Password Hint added to Login Dialog
+  3.2.2 
+  - [FIX] #32
+  3.2.1
+  - [FIX] #27 by check list contains element - Provided by GitHub User Input-BDF 
+  3.2.0
+  - The downloaded images are loaded into the srtm_images group.
+  - After successful download a VRT is generated from the images.  
+  - Clean download cancellation introduced.
+  3.1.17
+  - Bugfixing
+  3.1.16
+  - Check introduced whether the selected region is covered by SRTM tiles.
+  3.1.15
+  - Check to verify that the login service is available removed
+  3.1.14
+  - Built in check if service is available, fixes #20
+  3.1.13
+  - Fix download URL to https
+  3.1.12
+  - Fix Download URL again
+  3.1.11
+  - Error message when download server not available
+  3.1.10
+  - Fix download URL
+  3.1.9
+  - Fix of issue #15
+  3.1.8
+   - Bugfixing
+  3.1.7
+   - Labeling of download progressbars improved
+  3.1.6
+   - Download URL check added
+  3.1.5
+   - Metadata.txt bug fixed
+  3.1.4
+   - Saved credential bug fixed
+  3.1.3
+   - Saving of credentials option added
+   - Bugfixing
+  3.1.2
+    - QGIS 3.6 authentication bug fixed
+  3.1.1
+    - download progressbars improved
+  3.1.0
+    - download progressbars added
+  3.0.0
+    - first release for QGIS 3 only
+    - improved login dialog added
+    - already loaded images are not loaded twice
+  1.1.4
+    - Bugfixing
+  1.1.3
+    - QGIS3 improvements
+  1.1.2
+    - Fixing about dialog
+  1.1.1
+    - Download improved
+    - Bugfixing
+  1.1.0
+    - Redesign of network access
+  1.0.3
+    - Plugin moved to plugin toolbar
+    - New icon  
+    - Message when https is not supported (Windows)
+  1.0.2
+    - QGIS 3 ready
+  1.0.1
+    - missing UI files added
+    
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=https://github.com/hdus/SRTM-Downloader/wiki
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

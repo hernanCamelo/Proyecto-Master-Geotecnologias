@@ -1,0 +1,21 @@
+﻿stop_id;stop_code;stop_name;stop_desc;stop_lat;stop_lon;zone_id;stop_url;location_type;parent_station;stop_timezone;wheelchair_boarding
+par_8_06686;06686;AV.BURGOS-C.C.SANCHINARRO;Avda de Burgos 133;40.4980545043945;-3.66299557685852;A;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06687;06687;AV.BURGOS-DOMINICOS;Avda de Burgos 11300;40.5014419555664;-3.65994882583618;A;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06689;06689;CTRA.A1-CUESTA BLANCA;Ctra de Irún 13700;40.5217704772949;-3.65101075172424;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06690;06690;CTRA.IRÚN-CONCESIONARIO;Ctra de Irún 14700;40.5337944030762;-3.64185833930969;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06691;06691;AV.OLÍMPICA-C.C.LA VEGA;Avda   Olímpica 9;40.5352478027344;-3.63698363304138;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06692;06692;AV.OLÍMPICA-PABELLÓN DEPORTIVO;Avda   Olímpica 3 A;40.5364952087402;-3.63274455070496;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06755;06755;MARQUESA VIUDA DE ALDAMA-NªSRA.DEL PILAR;Calle de la Marquesa Viuda de Aldama 14;40.5413055419922;-3.63294339179993;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06756;06756;MARQUÉS VALDAVIA-RAMÓN FDEZ.GUISASOLA;Calle del Marqués de la Valdavia 20;40.5408248901367;-3.6367175579071;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06758;06758;MARQUÉS VALDAVIA-NEMESIO CASTRO;Calle del Marqués de la Valdavia 50;40.5429191589355;-3.63905215263367;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06759;06759;MARQUÉS VALDAVIA-AV.ESPAÑA;Calle del Marqués de la Valdavia 88;40.5447883605957;-3.64296698570251;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06762;06762;AV.ESPAÑA-AYUNTAMIENTO;Avda de España SN;40.5472755432129;-3.6412193775177;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06763;06763;AV.ESPAÑA-AYUNTAMIENTO;Avda de España 34;40.5471420288086;-3.64091086387634;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06766;06766;MARQUÉS VALDAVIA-AV.ESPAÑA;Calle del Marqués de la Valdavia 69;40.5445098876953;-3.64283442497253;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06767;06767;MARQUÉS VALDAVIA-ISLAS BIKINI;Calle del Marqués de la Valdavia 37;40.5427932739258;-3.63915705680847;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06768;06768;LIBERTAD-JULIÁN BAENA CASTRO;Calle de la Libertad 26;40.5395812988281;-3.63649344444275;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06863;06863;CTRA.A1-CUESTA BLANCA;Ctra  A-1 (VÍA DE SERVICIO) 14.200;40.5223350524902;-3.65168905258179;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06864;06864;CTRA.A1-EL ENCINAR DE LOS REYES;Ctra de Irún  13.000;40.5145568847656;-3.65547370910645;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_06865;06865;AV.BURGOS-DOMINICOS;Avda de Santo Domingo de la Calzada 1;40.5019798278809;-3.66060304641724;A;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_07236;07236;AV.ESPAÑA-M.SEBASTIÁN IZUEL;Avda de España 72;40.5409965515137;-3.62847685813904;B1;http://www.crtm.es;0;;Europe/Madrid;2
+par_8_10550;10550;PºLA CASTELLANA-HOSPITAL LA PAZ;Paseo de la Castellana 296;40.4795417785645;-3.68591380119324;A;http://www.crtm.es;0;;Europe/Madrid;2

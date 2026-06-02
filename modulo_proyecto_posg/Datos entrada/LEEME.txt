@@ -1,0 +1,5 @@
+Coloque aquí archivos de prueba para el complemento:
+- Nubes de puntos LiDAR (.las, .laz)
+- Cartografía catastral vectorial (.shp, .gpkg, .geojson)
+
+
