@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/modulo_POSG" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
